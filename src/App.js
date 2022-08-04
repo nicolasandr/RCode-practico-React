@@ -1,9 +1,10 @@
 import React from 'react';
+import Titulo from './components/Titulo';
 
 const App = () => {
     return (
         <div>
-            <h1>Hello world!</h1>
+            <Titulo agregado='My friend'></Titulo>
         </div>
     );
 };
