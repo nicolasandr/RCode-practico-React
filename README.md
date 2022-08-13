@@ -1,6 +1,6 @@
-# Treabajo practico REACT
+# Trabajo practico REACT
 
-## Ejercicios 1 2 y 3 
+## Ejercicios 1,2 y 3 
 
 Este proyecto esta realizado con proposito de ejercitacion de uso de state y props.
 
